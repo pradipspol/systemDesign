@@ -1,0 +1,5 @@
+flask>=3.0
+websockets>=12.0
+aiohttp>=3.9
+beautifulsoup4>=4.12
+sortedcontainers>=2.4
